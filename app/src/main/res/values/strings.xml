@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LoginApp</string>
+    <string name="Click_Button">Click </string>
+    <string name="login_btn">Login </string>
+    <string name="email">Email </string>
+    <string name="noAccountYet">No account yet? </string>
+    <string name="createOne">Create one</string>
+    <string name="passwd">Password</string>
+    <string name="famous">famous</string>
+    <string name="equalstosymbol">=</string>
+    <string name="dividesymbol">÷</string>
 </resources>
