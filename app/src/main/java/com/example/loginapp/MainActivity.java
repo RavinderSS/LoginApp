@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView nameTV, addressTV, accountNoTV, createBT;
     EditText nameET, addressET;
-    Button clickBT;
+    Button clickBT ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
