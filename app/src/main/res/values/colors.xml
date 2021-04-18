@@ -6,9 +6,15 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="ligt_black">#201F1F</color>
     <color name="white">#FFFFFFFF</color>
     <color name="dark_red">#B6251A</color>
     <color name="yellow">#FFC107</color>
     <color name="light_red">#CD3D32</color>
+    <color name="light_fadeblue">#D5EFF3</color>
+    <color name="background">#21F8AF6B</color>
+    <color name="lightgrey">#BCBABA</color>
+    <color name="colordivide">#50406C</color>
+
 
 </resources>
